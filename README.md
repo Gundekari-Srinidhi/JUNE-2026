@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Database
+|  |
+| ------- |
+| [1045-customers-who-bought-all-products](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/1045-customers-who-bought-all-products) |
 <!---LeetCode Topics End-->
