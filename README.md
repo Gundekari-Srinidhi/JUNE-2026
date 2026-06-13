@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1045-customers-who-bought-all-products](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/1045-customers-who-bought-all-products) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Array
 |  |
 | ------- |
