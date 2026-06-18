@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0045-jump-game-ii) |
 | [3838-weighted-word-mapping](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0025-reverse-nodes-in-k-group) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
