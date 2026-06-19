@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0344-reverse-string](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0344-reverse-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
