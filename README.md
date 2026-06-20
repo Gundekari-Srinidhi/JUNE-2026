@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0032-longest-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0344-reverse-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3794-reverse-string-prefix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0032-longest-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0045-jump-game-ii) |
 ## Greedy
 |  |
