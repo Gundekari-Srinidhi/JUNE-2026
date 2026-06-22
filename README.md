@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0054-spiral-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/1833-maximum-ice-cream-bars) |
 | [3838-weighted-word-mapping](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0054-spiral-matrix) |
 | [3838-weighted-word-mapping](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3838-weighted-word-mapping) |
 ## Linked List
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/1833-maximum-ice-cream-bars) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
