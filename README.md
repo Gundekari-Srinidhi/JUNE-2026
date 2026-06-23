@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0086-partition-list) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0054-spiral-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
