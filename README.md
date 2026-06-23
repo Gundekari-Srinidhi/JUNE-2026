@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0025-reverse-nodes-in-k-group) |
+| [0086-partition-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0086-partition-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0086-partition-list) |
 | [0344-reverse-string](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0344-reverse-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3794-reverse-string-prefix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3794-reverse-string-prefix) |
