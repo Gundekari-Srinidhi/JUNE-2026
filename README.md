@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Database
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -129,4 +133,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
