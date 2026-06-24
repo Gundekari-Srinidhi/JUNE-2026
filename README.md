@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0054-spiral-matrix) |
+| [0162-find-peak-element](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0162-find-peak-element) |
 | [1732-find-the-highest-altitude](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/1833-maximum-ice-cream-bars) |
 | [3838-weighted-word-mapping](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3838-weighted-word-mapping) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0162-find-peak-element) |
 ## Binary Tree
 |  |
 | ------- |
