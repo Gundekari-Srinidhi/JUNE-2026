@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0036-valid-sudoku) |
 | [0575-distribute-candies](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0575-distribute-candies) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## String
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0162-find-peak-element) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Gundekari-Srinidhi/JUNE-2026/tree/master/0054-spiral-matrix) |
 ## Binary Search Tree
 |  |
